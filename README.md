@@ -1,2 +1,2 @@
-# rythm-game
+# rhythm-game
 Made for Seamedu's 3 game challenge
